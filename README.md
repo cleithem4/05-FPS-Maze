@@ -1,12 +1,17 @@
-# Exercise-05a-Procedural-Generation
+# FPS Maze
 
-Exercise for MSCH-C220
-
-An implementation of a procedurally-generated 3D maze. Also, a simple in-game menu.
+A simple FPS Maze.
 
 ## Implementation
 
 Built using Godot 3.5
+
+-added key to finish maze
+-sound effects
+-completely random maze every time you restart
+-soldier who kills you if you run into him
+-Start,Mid,Ending menu's
+
 
 ## References
 
